@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    overflow-y: hidden;
+    height: 100vh;
+
+}
+
+.content{
+width: 100%;
+
+}

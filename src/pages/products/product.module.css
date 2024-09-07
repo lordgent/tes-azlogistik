@@ -1,0 +1,33 @@
+.container{
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+
+
+}
+.body{
+    grid-gap: 12px;
+    display: grid;
+    grid-template-columns: repeat(4,100fr);
+    
+}
+
+.btn{
+    width: 200px;
+    background-color: #295F98;
+    border: none;
+    color: white;
+    padding: 8px 0;
+    border-radius: 6px;
+}
+.wrapperAction{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.info{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}

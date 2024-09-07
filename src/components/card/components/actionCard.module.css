@@ -1,0 +1,16 @@
+.actionContainer{
+    flex-direction: column;
+    gap: 6px;
+    position: absolute;
+    right: 0px;
+    top: 30px;
+    height: 60px;
+    width: 140px;
+    display: flex;
+    padding: 4px;
+    background-color: white;
+}
+.actionContainer p{
+    cursor: pointer;
+    
+}
